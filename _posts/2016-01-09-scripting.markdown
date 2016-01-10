@@ -7,5 +7,5 @@ tags: [scripting bash osx]
 
 Much appreciation for the following post:
 
-http://helenvholmes.com/notes/creating-new-jekyll-posts-with-bash/
+[Link](http://helenvholmes.com/notes/creating-new-jekyll-posts-with-bash/)
 
