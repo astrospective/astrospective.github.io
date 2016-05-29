@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: The Grace of Kings
+description: Book plug
+tags: [books]
 ---
 ## The Grace of Kings
 
